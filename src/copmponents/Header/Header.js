@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Header = () => {
+    console.log("Test")
     return (
         <nav>
             <div className="nav-wrapper purple darken-3">
